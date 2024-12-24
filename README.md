@@ -9,7 +9,7 @@
 
 - ⚙️ I love working with **Node.js**, **React**, **NestJS**, **TypeScript**, and **React Native**.
 - 🚀 I have contributed to **banking**, **online casino**, **betting platforms**, and **AI-powered health apps**.
-- 🌱 Recently, I’ve been delving deeper into **OpenAI API** for nutritional analysis, chatbots, and intelligent recommenders.
+- 🌱 Recently, I’ve been delving deeper into the **OpenAI API** for nutritional analysis, chatbots, and intelligent recommenders.
 - 💡 I constantly seek performance and scalability improvements, whether in front-end, back-end, or mobile environments.
 
 ---
@@ -48,23 +48,26 @@
 
 ## 🚀 Highlighted Projects
 
-1. **[AI-Powered Health App](https://github.com/Saitamx/your_health_app_repo)**  
+1. **[ECOQUERAI (AI-Powered Health App)](https://play.google.com/store/apps/details?id=com.ecoquerai)**  
    - *React Native + OpenAI API*  
-   - Analyzes foods and suggests exercise and nutritional plans.  
+   - Analyzes foods and suggests exercise/nutritional plans.  
    - Includes social media channels and an online store as part of its launch.
 
-2. **[Online Casino & Payment Gateway](https://github.com/Saitamx/your_casino_repo)**  
+2. **Online Casino & Payment Gateway**  
    - *Next.js, NestJS, TypeScript*  
-   - High-traffic betting platform with secure payment integrations.
+   - High-traffic betting platform with secure payment integrations.  
 
-3. **[Banking / Finance Projects](#)**  
+3. **Banking / Finance Projects**  
    - *Private repos, available upon request.*  
    - Experience working on **Scotiabank** projects, optimizing digital channels and banking workflows.
 
 ---
 
 ## 📊 GitHub Stats (Optional)
-<!-- Uncomment the lines below to display your stats. Replace "Saitamx" with your GitHub username if needed.
+
+<!-- 
+Uncomment the lines below to display your stats. Replace "Saitamx" with your GitHub username if needed.
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Saitamx&show_icons=true&theme=radical)
 -->
 
@@ -72,9 +75,9 @@
 
 ## 🤝 Let's Connect
 
-- **LinkedIn**: [linkedin.com/in/your-linkedin](#)
+- **LinkedIn**: [https://www.linkedin.com/in/saitamsw](https://www.linkedin.com/in/saitamsw)
 - **Email**: [matias.troncoso.campos@gmail.com](mailto:matias.troncoso.campos@gmail.com)
-- **Portfolio (Docs/Presentation)**: [Drive Link](https://drive.google.com/file/d/159aDSJjSJTcLsy7l1Zi5Do7k6L73TeV7/view)
+- **Portfolio (Docs/Presentation)**: [Google Drive](https://drive.google.com/file/d/159aDSJjSJTcLsy7l1Zi5Do7k6L73TeV7/view)
 - **GitHub**: [github.com/Saitamx](https://github.com/Saitamx)
 
 ---
