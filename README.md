@@ -63,16 +63,6 @@
 
 ---
 
-## 📊 GitHub Stats (Optional)
-
-<!-- 
-Uncomment the lines below to display your stats. Replace "Saitamx" with your GitHub username if needed.
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Saitamx&show_icons=true&theme=radical)
--->
-
----
-
 ## 🤝 Let's Connect
 
 - **LinkedIn**: [https://www.linkedin.com/in/saitamsw](https://www.linkedin.com/in/saitamsw)
