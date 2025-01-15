@@ -1,7 +1,7 @@
 # Hello, I'm Matías Troncoso!
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder-image" alt="Header Image" width="100%">
+  <img src="https://source.unsplash.com/1600x400/?technology" alt="Header Image" width="100%">
 </div>
 
 ---
@@ -14,10 +14,6 @@
 
 ## 🧑‍💻 About Me
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder-about" alt="About Image" width="70%">
-</div>
-
 - ⚙️ **Core Technologies**: **Node.js**, **React**, **NestJS**, **TypeScript**, **React Native**.
 - 🚀 **Proficiencies**: **Microservices**, **Microfrontends**, **API integrations**, **Sockets**, **Cloud Architecture**.
 - 🌱 **Recent Work**: Built and published a **mobile app** using **OpenAI API** for personalized health and fitness insights.
@@ -28,10 +24,6 @@
 
 ## 🛠 Tech Stack
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder-techstack" alt="Tech Stack Image" width="80%">
-</div>
-
 ### **Languages**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
@@ -40,7 +32,6 @@
 ### **Front-End**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white&style=flat-square)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square)
 
 ### **Mobile**
@@ -84,7 +75,7 @@
 ## 🚀 Highlighted Projects
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder-projects" alt="Projects Image" width="70%">
+  <img src="https://source.unsplash.com/1600x400/?projects" alt="Projects Image" width="80%">
 </div>
 
 1. **[ECOQUERAI (AI-Powered Health App)](https://play.google.com/store/apps/details?id=com.ecoquerai)**
@@ -109,7 +100,7 @@
 ## 🤝 Let's Connect
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder-connect" alt="Connect Image" width="80%">
+  <img src="https://source.unsplash.com/1600x400/?connect" alt="Connect Image" width="80%">
 </div>
 
 - **LinkedIn**: [https://www.linkedin.com/in/saitamsw](https://www.linkedin.com/in/saitamsw)
@@ -122,7 +113,7 @@
 ### Thanks for visiting my profile!
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder-thankyou" alt="Thank You Image" width="60%">
+  <img src="https://source.unsplash.com/1600x400/?thankyou" alt="Thank You Image" width="60%">
 </div>
 
 *I'm always open to new opportunities and collaborations—feel free to reach out!*
