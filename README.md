@@ -18,7 +18,7 @@
 
 ## 🛠 Tech Stack
 
-### **Languages**
+### **Main Languages**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
@@ -26,7 +26,6 @@
 ### **Front-End**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white&style=flat-square)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square)
 
 ### **Mobile**
