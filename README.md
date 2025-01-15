@@ -1,5 +1,11 @@
 # Hello, I'm Matías Troncoso!
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/placeholder-image" alt="Header Image" width="100%">
+</div>
+
+---
+
 ### Full Stack & Mobile Developer | AI & Digital Health Enthusiast
 
 > *Computer Engineering graduate (Ingeniero Civil Informático) with expertise in high-performance platforms, fintech, digital health solutions, and AI-driven innovation. Passionate about creating impactful apps, exploring new tech stacks, and continuous learning.*
@@ -7,6 +13,10 @@
 ---
 
 ## 🧑‍💻 About Me
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/placeholder-about" alt="About Image" width="70%">
+</div>
 
 - ⚙️ **Core Technologies**: **Node.js**, **React**, **NestJS**, **TypeScript**, **React Native**.
 - 🚀 **Proficiencies**: **Microservices**, **Microfrontends**, **API integrations**, **Sockets**, **Cloud Architecture**.
@@ -17,6 +27,10 @@
 ---
 
 ## 🛠 Tech Stack
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/placeholder-techstack" alt="Tech Stack Image" width="80%">
+</div>
 
 ### **Languages**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
@@ -69,6 +83,10 @@
 
 ## 🚀 Highlighted Projects
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/placeholder-projects" alt="Projects Image" width="70%">
+</div>
+
 1. **[ECOQUERAI (AI-Powered Health App)](https://play.google.com/store/apps/details?id=com.ecoquerai)**
    - *React Native + OpenAI API*
    - Provides food analysis and personalized health recommendations.
@@ -90,6 +108,10 @@
 
 ## 🤝 Let's Connect
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/placeholder-connect" alt="Connect Image" width="80%">
+</div>
+
 - **LinkedIn**: [https://www.linkedin.com/in/saitamsw](https://www.linkedin.com/in/saitamsw)
 - **Email**: [matias.troncoso.campos@gmail.com](mailto:matias.troncoso.campos@gmail.com)
 - **Portfolio**: [Google Drive](https://drive.google.com/file/d/159aDSJjSJTcLsy7l1Zi5Do7k6L73TeV7/view)
@@ -98,4 +120,9 @@
 ---
 
 ### Thanks for visiting my profile!
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/placeholder-thankyou" alt="Thank You Image" width="60%">
+</div>
+
 *I'm always open to new opportunities and collaborations—feel free to reach out!*
