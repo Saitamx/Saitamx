@@ -100,8 +100,4 @@
 
 ### Thanks for visiting my profile!
 
-<div align="center">
-  <img src="https://source.unsplash.com/1600x400/?thankyou" alt="Thank You Image" width="60%">
-</div>
-
 *I'm always open to new opportunities and collaborations—feel free to reach out!*
