@@ -1,7 +1,7 @@
 # Hello, I'm Matías Troncoso!
 
 <div align="center">
-  <img src="https://source.unsplash.com/1600x400/?technology" alt="Header Image" width="100%">
+  <img src="https://www.etoro.com/wp-content/uploads/2023/01/1600x400-_1.jpg" alt="Header Image" width="100%">
 </div>
 
 ---
@@ -75,7 +75,7 @@
 ## 🚀 Highlighted Projects
 
 <div align="center">
-  <img src="https://source.unsplash.com/1600x400/?projects" alt="Projects Image" width="80%">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1tmY-lY6j777KVUV0AGfvdtHMh096yyOZEg&s" alt="Projects Image" width="80%">
 </div>
 
 1. **[ECOQUERAI (AI-Powered Health App)](https://play.google.com/store/apps/details?id=com.ecoquerai)**
@@ -98,10 +98,6 @@
 ---
 
 ## 🤝 Let's Connect
-
-<div align="center">
-  <img src="https://source.unsplash.com/1600x400/?connect" alt="Connect Image" width="80%">
-</div>
 
 - **LinkedIn**: [https://www.linkedin.com/in/saitamsw](https://www.linkedin.com/in/saitamsw)
 - **Email**: [matias.troncoso.campos@gmail.com](mailto:matias.troncoso.campos@gmail.com)
