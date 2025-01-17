@@ -1,9 +1,5 @@
 # Hello, I'm Matías Troncoso!
 
-<div align="center">
-  <img src="https://www.etoro.com/wp-content/uploads/2023/01/1600x400-_1.jpg" alt="Header Image" width="100%">
-</div>
-
 ---
 
 ### Full Stack & Mobile Developer | AI & Digital Health Enthusiast
@@ -73,10 +69,6 @@
 ---
 
 ## 🚀 Highlighted Projects
-
-<div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1tmY-lY6j777KVUV0AGfvdtHMh096yyOZEg&s" alt="Projects Image" width="80%">
-</div>
 
 1. **[ECOQUERAI (AI-Powered Health App)](https://play.google.com/store/apps/details?id=com.ecoquerai)**
    - *React Native + OpenAI API*
